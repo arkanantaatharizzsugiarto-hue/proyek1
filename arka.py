@@ -44,3 +44,4 @@ btn_answer4.clicked.connect(show_lose)
 
 main_win.show()
 app.exec_()
+#DAME UN GRR
