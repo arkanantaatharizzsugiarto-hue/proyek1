@@ -187,3 +187,5 @@ btn_flip.clicked.connect(workimage.do_flip)
 
 
 app.exec()
+
+#werk
