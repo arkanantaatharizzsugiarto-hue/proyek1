@@ -44,3 +44,4 @@ try:
 
 except FileNotFoundError:
     print("File kosong.")
+    #RAHAAAAAAAAAA
